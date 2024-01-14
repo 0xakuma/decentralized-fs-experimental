@@ -1,0 +1,1 @@
+pub(crate) const MAGIC: u64 = 0x4e42444d41474943; // ASCII:NMDMAGIC
